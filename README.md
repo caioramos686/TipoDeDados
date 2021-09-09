@@ -1,2 +1,2 @@
 # TipoDeDados
-Tipo de dados Java
+Tipo de dados primario e não primarios
